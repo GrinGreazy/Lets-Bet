@@ -1,4 +1,4 @@
-# MLB PrizePicks Prop Confidence Toolkit
+# MLB PrizePicks Prop Confidence Analyzer
 
 A self-improving pipeline for fetching MLB PrizePicks prop lines, scoring them against historical player performance using the MLB Stats API, visualizing results in an interactive dashboard, and learning from outcomes over time.
 
@@ -26,8 +26,6 @@ Each resolved session improves the model. Parameters are tuned automatically bas
 
 ### 1. `prizepicks_export.py`
 Fetches all available MLB prop lines from the PrizePicks partner API and saves them to a dated folder.
-
-> **Note:** PrizePicks blocks corporate/managed networks. Run from a personal machine or Google Colab.
 
 **Output:** `./MMDDYYYY-MLB/prizepicks_MLB.csv`
 
