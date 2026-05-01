@@ -1,0 +1,1429 @@
+sport,player,team,position,opponent,stat_type,line,odds_type,start_time
+MLB,Jeffrey Springs,ATH,P,,Pitching Outs,16.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Pitcher Strikeouts,4,standard,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Pitches Thrown,96.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitches Thrown,94.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Pitches Thrown,90.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitches Thrown,88.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Pitches Thrown,85.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitches Thrown,83.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitcher Fantasy Score,34.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Pitcher Fantasy Score,33.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Pitcher Fantasy Score,26.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitcher Fantasy Score,25.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Pitcher Fantasy Score,18.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitcher Fantasy Score,18.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hitter Fantasy Score,13.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hitter Fantasy Score,12.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hitter Fantasy Score,10.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hitter Fantasy Score,9.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hitter Fantasy Score,9.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hitter Fantasy Score,8.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hitter Fantasy Score,8.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hitter Fantasy Score,8.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hitter Fantasy Score,7.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hitter Fantasy Score,7.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hitter Fantasy Score,7.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hitter Fantasy Score,7.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hitter Fantasy Score,7.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hitter Fantasy Score,6.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Hitter Fantasy Score,6.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hitter Fantasy Score,6,standard,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hitter Fantasy Score,5.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hitter Fantasy Score,5.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hitter Fantasy Score,5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hitter Fantasy Score,5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hitter Fantasy Score,4.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hitter Fantasy Score,4.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hitter Fantasy Score,4.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hitter Fantasy Score,4.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hitter Fantasy Score,3.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hitter Fantasy Score,3.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Hitter Fantasy Score,3.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hitter Fantasy Score,3,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hitter Fantasy Score,2.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hitter Fantasy Score,2.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hitter Fantasy Score,2.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Hitter Fantasy Score,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hitter Fantasy Score,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hitter Fantasy Score,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hitter Fantasy Score,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitching Outs,16.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron + Jeffrey Springs,KC/ATH,P,,Pitcher Strikeouts (Combo),8.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Hits Allowed,8.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitcher Strikeouts,7.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Hits Allowed,7.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Hits Allowed,7.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Pitcher Strikeouts,6.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitcher Strikeouts,6.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Hits Allowed,6.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Hits Allowed,6.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Hits Allowed,5.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Pitcher Strikeouts,5.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitcher Strikeouts,5.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Total Bases,5.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Total Bases,5.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitcher Strikeouts,4.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Total Bases,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Total Bases,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Total Bases,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Total Bases,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Total Bases,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Total Bases,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Total Bases,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Hits Allowed,4.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Hits Allowed,4.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Total Bases,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Earned Runs Allowed,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Pitcher Strikeouts,3.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Earned Runs Allowed,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Pitcher Strikeouts,3.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Hits Allowed,3.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Total Bases,3.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hits,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hits,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Hits,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Earned Runs Allowed,2.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Walks Allowed,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Walks Allowed,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hits,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hitter Strikeouts,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Earned Runs Allowed,2.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Total Bases,2.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Runs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Runs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hits+Runs+RBIs,1.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Runs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Runs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Runs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hits+Runs+RBIs,1.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Runs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Runs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Runs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Total Bases,1.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Hits+Runs+RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Singles,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Singles,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Singles,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Walks,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Walks,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Singles,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron,KC,P,,Walks Allowed,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Singles,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Singles,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Singles,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Runs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Singles,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Runs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jeffrey Springs,ATH,P,,Walks Allowed,1.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Hits,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Total Bases,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hits+Runs+RBIs,1.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Hits+Runs+RBIs,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Hitter Strikeouts,1.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hits+Runs+RBIs,1.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Noah Cameron + Jeffrey Springs,KC/ATH,P,,1st Inning Runs Allowed,0.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Stolen Bases,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Stolen Bases,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Stolen Bases,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Runs,0.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Runs,0.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Stolen Bases,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Hitter Strikeouts,0.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Singles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Carter Jensen,KC,C,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Singles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Colby Thomas,ATH,OF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Singles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Stolen Bases,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Isaac Collins,KC,OF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Hitter Strikeouts,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Singles,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Jacob Wilson,ATH,IF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Singles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Lane Thomas,KC,OF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Maikel Garcia,KC,IF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Singles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Kurtz,ATH,IF,,Walks,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Stolen Bases,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Nick Loftin,KC,OF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Singles,0.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Starling Marte,KC,OF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Singles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Stolen Bases,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Zack Gelof,ATH,IF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Shea Langeliers,ATH,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Carlos Cortes,ATH,OF,,Singles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Salvador Perez,KC,C,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Total Bases,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Singles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Singles,0.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Darell Hernaiz,ATH,IF,,Singles,0.5,standard,2026-04-30T15:05:00.000-04:00
+MLB,Bobby Witt Jr.,KC,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Austin Wynns,ATH,C,,Singles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Doubles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Hits,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Home Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,RBIs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Runs,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Singles,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Stolen Bases,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lawrence Butler,ATH,OF,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Hitter Strikeouts,0.5,goblin,2026-04-30T15:05:00.000-04:00
+MLB,Elias Díaz,KC,C,,Walks,0.5,demon,2026-04-30T15:05:00.000-04:00
+MLB,Lance McCullers Jr.,HOU,P,,Pitcher Strikeouts,7.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Lance McCullers Jr.,HOU,P,,Pitcher Strikeouts,6.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Brandon Young,BAL,P,,Pitcher Strikeouts,5.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Lance McCullers Jr.,HOU,P,,Pitcher Strikeouts,5.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Total Bases,4.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Total Bases,4.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Total Bases,4.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Total Bases,4.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Total Bases,4.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Brandon Young,BAL,P,,Pitcher Strikeouts,4.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Total Bases,3.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Lance McCullers Jr.,HOU,P,,Pitcher Strikeouts,3.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Hits,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Total Bases,2.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Brandon Young,BAL,P,,Pitcher Strikeouts,2.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Runs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Runs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Runs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Runs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Runs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Runs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Runs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Total Bases,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Hits,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,RBIs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Runs,1.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Cam Smith,HOU,OF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Carlos Correa,HOU,IF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Christian Walker,HOU,IF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Coby Mayo,BAL,IF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Daniel Johnson,HOU,OF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Dylan Beavers,BAL,OF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Gunnar Henderson,BAL,IF,,Stolen Bases,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Isaac Paredes,HOU,IF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jeremiah Jackson,BAL,IF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Jose Altuve,HOU,OF,,Stolen Bases,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Leody Taveras,BAL,OF,,Stolen Bases,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Pete Alonso,BAL,IF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Samuel Basallo,BAL,C,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Shay Whitcomb,HOU,OF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Taylor Ward,BAL,OF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Tyler O'Neill,BAL,OF,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yainer Diaz,HOU,C,,Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Doubles,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Hits,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,Home Runs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Yordan Alvarez,HOU,OF,,RBIs,0.5,demon,2026-04-30T16:05:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Total Bases,4.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Total Bases,4.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Total Bases,4.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Total Bases,4.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Total Bases,4.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Total Bases,4.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Total Bases,4.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Total Bases,3.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Hits,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Patrick Bailey,SF,C,,Total Bases,2.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Patrick Bailey,SF,C,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Marchán,PHI,C,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Hits+Runs+RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,Hits,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,Hits+Runs+RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Runs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Runs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Runs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Runs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Patrick Bailey,SF,C,,Total Bases,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,RBIs,1.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Home Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Home Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Home Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Home Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Home Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Home Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Home Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Home Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Home Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Home Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Doubles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Runs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Stolen Bases,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Stolen Bases,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Stolen Bases,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Adolis García,PHI,OF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Alec Bohm,PHI,IF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Bryce Harper,PHI,IF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Bryson Stott,PHI,IF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Casey Schmitt,SF,IF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Total Bases,0.5,standard,2026-04-30T17:35:00.000-04:00
+MLB,Heliot Ramos,SF,OF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Jung Lee,SF,OF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Justin Crawford,PHI,OF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Matt Chapman,SF,IF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Patrick Bailey,SF,C,,Hits,0.5,standard,2026-04-30T17:35:00.000-04:00
+MLB,Patrick Bailey,SF,C,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Patrick Bailey,SF,C,,Total Bases,0.5,standard,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Marchán,PHI,C,,RBIs,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Willy Adames,SF,IF,,Total Bases,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Runs,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Brandon Marsh,PHI,OF,,Stolen Bases,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Drew Gilbert,SF,OF,,Singles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Hits,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Eric Haase,SF,C,,Singles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Garrett Stubbs,PHI,C,,Singles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Kyle Schwarber,PHI,OF,,Singles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Luis Arraez,SF,IF,,Singles,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Rafael Devers,SF,DH,,Singles,0.5,demon,2026-04-30T17:35:00.000-04:00
+MLB,Trea Turner,PHI,IF,,Singles,0.5,goblin,2026-04-30T17:35:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitcher Strikeouts,4,standard,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitches Thrown,101.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitches Thrown,98.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitches Thrown,93.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitches Thrown,92.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitches Thrown,86.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitches Thrown,86.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitcher Fantasy Score,40.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitcher Fantasy Score,35.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitcher Fantasy Score,32.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitcher Fantasy Score,26.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitcher Fantasy Score,24.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitcher Fantasy Score,19.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hitter Fantasy Score,12.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hitter Fantasy Score,10.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hitter Fantasy Score,10.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hitter Fantasy Score,9.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hitter Fantasy Score,9.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hitter Fantasy Score,9.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hitter Fantasy Score,8.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Lenyn Sosa,TOR,IF,,Hitter Fantasy Score,8.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hitter Fantasy Score,8.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Myles Straw,TOR,OF,,Hitter Fantasy Score,8.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hitter Fantasy Score,8.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hitter Fantasy Score,7.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Hitter Fantasy Score,7.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hitter Fantasy Score,7.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hitter Fantasy Score,6.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hitter Fantasy Score,6.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hitter Fantasy Score,6.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Brandon Valenzuela,TOR,C,,Hitter Fantasy Score,6.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hitter Fantasy Score,6.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Tristan Gray,MIN,IF,,Hitter Fantasy Score,5.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hitter Fantasy Score,5.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hitter Fantasy Score,5.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hitter Fantasy Score,5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hitter Fantasy Score,5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hitter Fantasy Score,5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hitter Fantasy Score,5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Myles Straw,TOR,OF,,Hitter Fantasy Score,5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hitter Fantasy Score,5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hitter Fantasy Score,4.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Lenyn Sosa,TOR,IF,,Hitter Fantasy Score,4.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hitter Fantasy Score,4.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hitter Fantasy Score,3.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Hitter Fantasy Score,3.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hitter Fantasy Score,3,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Brandon Valenzuela,TOR,C,,Hitter Fantasy Score,3,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Tristan Gray,MIN,IF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Lenyn Sosa,TOR,IF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Myles Straw,TOR,OF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hitter Fantasy Score,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Tristan Gray,MIN,IF,,Hitter Fantasy Score,1.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hitter Fantasy Score,1.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hitter Fantasy Score,1.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Brandon Valenzuela,TOR,C,,Hitter Fantasy Score,1.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Hitter Fantasy Score,1.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hitter Fantasy Score,1.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitching Outs,17.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitching Outs,17.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman + Bailey Ober,TOR/MIN,P,,Pitcher Strikeouts (Combo),9.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitcher Strikeouts,8.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitcher Strikeouts,7.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Hits Allowed,7.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Hits Allowed,7.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitcher Strikeouts,6.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitcher Strikeouts,6.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Hits Allowed,6.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Hits Allowed,6.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitcher Strikeouts,5.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Hits Allowed,5.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitcher Strikeouts,5.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Hits Allowed,5.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Hits Allowed,4.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitcher Strikeouts,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Total Bases,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Total Bases,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Total Bases,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Total Bases,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Total Bases,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Pitcher Strikeouts,4.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hits+Runs+RBIs,4.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitcher Strikeouts,3.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Hits+Runs+RBIs,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Total Bases,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Earned Runs Allowed,3.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Hits Allowed,3.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Hits Allowed,3.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Walks Allowed,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hitter Strikeouts,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hitter Strikeouts,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hits,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Hits+Runs+RBIs,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Total Bases,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Pitcher Strikeouts,2.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Earned Runs Allowed,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Walks Allowed,2.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Bailey Ober,MIN,P,,Earned Runs Allowed,2.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hits+Runs+RBIs,1.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Runs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Runs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Hits+Runs+RBIs,1.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Runs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Runs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hits+Runs+RBIs,1.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Runs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Hits,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Singles,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Singles,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Total Bases,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hits+Runs+RBIs,1.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Singles,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Singles,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Walks,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kevin Gausman,TOR,P,,Walks Allowed,1.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Singles,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Hits+Runs+RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,RBIs,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Hitter Strikeouts,1.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Brooks Lee,MIN,IF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Stolen Bases,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Byron Buxton,MIN,OF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kody Clemens,MIN,IF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Hitter Strikeouts,0.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Stolen Bases,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Luke Keaschall,MIN,IF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hits,0.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Stolen Bases,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Royce Lewis,MIN,IF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Ryan Jeffers,MIN,C,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Trevor Larnach,MIN,OF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Stolen Bases,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Stolen Bases,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Doubles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Hits,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,RBIs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Singles,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Singles,0.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Matt Wallner,MIN,OF,,Hits+Runs+RBIs,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Stolen Bases,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Daulton Varsho,TOR,OF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Hitter Strikeouts,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Runs,0.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Singles,0.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,George Springer,TOR,OF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Jesús Sánchez,TOR,OF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Kazuma Okamoto,TOR,IF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Total Bases,0.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Hitter Strikeouts,0.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Total Bases,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Vladimir Guerrero Jr.,TOR,IF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Home Runs,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Singles,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Josh Bell,MIN,IF,,Singles,0.5,standard,2026-04-30T19:40:00.000-04:00
+MLB,Yohendrick Piñango,TOR,OF,,Hitter Strikeouts,0.5,goblin,2026-04-30T19:40:00.000-04:00
+MLB,Andrés Giménez,TOR,IF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Ernie Clement,TOR,IF,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00
+MLB,Tyler Heineman,TOR,C,,Walks,0.5,demon,2026-04-30T19:40:00.000-04:00

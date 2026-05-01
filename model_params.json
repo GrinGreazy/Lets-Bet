@@ -1,0 +1,10 @@
+{
+  "prior_weight": 9.76,
+  "avg_factor_min": 0.67,
+  "avg_factor_max": 1.5,
+  "min_games_warn": 5,
+  "version": 2,
+  "trained_on": "2026-05-01T09:20:46.924085",
+  "sessions_used": 2,
+  "notes": "Raw conf beats adj (err 0.084 < 0.132) \u2014 decreased prior_weight to 9.76"
+}

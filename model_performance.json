@@ -1,0 +1,204 @@
+{
+  "generated_at": "2026-05-01T09:20:46.931097",
+  "sessions": [
+    {
+      "folder": "04282026-MLB",
+      "sport": "MLB",
+      "date": "04282026",
+      "accuracy": 0.2812,
+      "resolved": 3055,
+      "total": 3264
+    },
+    {
+      "folder": "04292026-MLB",
+      "sport": "MLB",
+      "date": "04292026",
+      "accuracy": 0.2953,
+      "resolved": 2692,
+      "total": 3434
+    }
+  ],
+  "analysis": {
+    "total_props": 5747,
+    "total_hits": 1654,
+    "overall_accuracy": 0.2878,
+    "adj_calibration_error": 0.1315,
+    "raw_calibration_error": 0.0835,
+    "adj_beats_raw": false,
+    "by_confidence_adj": {
+      "50-59%": {
+        "hits": 189,
+        "total": 405,
+        "accuracy": 0.4667
+      },
+      "60-69%": {
+        "hits": 151,
+        "total": 306,
+        "accuracy": 0.4935
+      },
+      "70-79%": {
+        "hits": 115,
+        "total": 207,
+        "accuracy": 0.5556
+      },
+      "80-100%": {
+        "hits": 245,
+        "total": 369,
+        "accuracy": 0.664
+      },
+      "<50%": {
+        "hits": 954,
+        "total": 4460,
+        "accuracy": 0.2139
+      }
+    },
+    "by_confidence_raw": {
+      "50-59%": {
+        "hits": 267,
+        "total": 543,
+        "accuracy": 0.4917
+      },
+      "60-69%": {
+        "hits": 204,
+        "total": 362,
+        "accuracy": 0.5635
+      },
+      "70-79%": {
+        "hits": 105,
+        "total": 147,
+        "accuracy": 0.7143
+      },
+      "80-100%": {
+        "hits": 57,
+        "total": 92,
+        "accuracy": 0.6196
+      },
+      "<50%": {
+        "hits": 1021,
+        "total": 4603,
+        "accuracy": 0.2218
+      }
+    },
+    "by_sport": {
+      "MLB": {
+        "hits": 1654,
+        "total": 5747,
+        "accuracy": 0.2878
+      }
+    },
+    "by_stat": {
+      "Doubles": {
+        "hits": 72,
+        "total": 491,
+        "accuracy": 0.1466
+      },
+      "Earned Runs Allowed": {
+        "hits": 20,
+        "total": 51,
+        "accuracy": 0.3922
+      },
+      "Hits": {
+        "hits": 264,
+        "total": 492,
+        "accuracy": 0.5366
+      },
+      "Hits Allowed": {
+        "hits": 16,
+        "total": 50,
+        "accuracy": 0.32
+      },
+      "Hits+Runs+RBIs": {
+        "hits": 134,
+        "total": 492,
+        "accuracy": 0.2724
+      },
+      "Hitter Fantasy Score": {
+        "hits": 190,
+        "total": 449,
+        "accuracy": 0.4232
+      },
+      "Hitter Strikeouts": {
+        "hits": 233,
+        "total": 470,
+        "accuracy": 0.4957
+      },
+      "Home Runs": {
+        "hits": 41,
+        "total": 403,
+        "accuracy": 0.1017
+      },
+      "Pitcher Fantasy Score": {
+        "hits": 1,
+        "total": 47,
+        "accuracy": 0.0213
+      },
+      "Pitcher Strikeouts": {
+        "hits": 27,
+        "total": 53,
+        "accuracy": 0.5094
+      },
+      "Pitching Outs": {
+        "hits": 22,
+        "total": 45,
+        "accuracy": 0.4889
+      },
+      "RBIs": {
+        "hits": 57,
+        "total": 492,
+        "accuracy": 0.1159
+      },
+      "Runs": {
+        "hits": 117,
+        "total": 493,
+        "accuracy": 0.2373
+      },
+      "Singles": {
+        "hits": 166,
+        "total": 478,
+        "accuracy": 0.3473
+      },
+      "Stolen Bases": {
+        "hits": 32,
+        "total": 249,
+        "accuracy": 0.1285
+      },
+      "Total Bases": {
+        "hits": 109,
+        "total": 490,
+        "accuracy": 0.2224
+      },
+      "Triples": {
+        "hits": 0,
+        "total": 2,
+        "accuracy": 0.0
+      },
+      "Walks": {
+        "hits": 131,
+        "total": 449,
+        "accuracy": 0.2918
+      },
+      "Walks Allowed": {
+        "hits": 22,
+        "total": 51,
+        "accuracy": 0.4314
+      }
+    },
+    "by_tier": {
+      "goblin": {
+        "hits": 576,
+        "total": 940,
+        "accuracy": 0.6128
+      },
+      "standard": {
+        "hits": 390,
+        "total": 961,
+        "accuracy": 0.4058
+      },
+      "demon": {
+        "hits": 688,
+        "total": 3846,
+        "accuracy": 0.1789
+      }
+    }
+  }
+}
